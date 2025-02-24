@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PICT.MainPage"
+             >
+    <ContentPage.Background>
+        <LinearGradientBrush>
+            <GradientStop Color="White" Offset="0.3"/>
+            <GradientStop Color="Pink" Offset="1"/>
+        </LinearGradientBrush>
+    </ContentPage.Background>
+    <StackLayout>
+        
+        <SearchBar Text="{Binding SearchQuery}" Placeholder="Cerca foto"
+                   SearchCommand="{Binding SearchCommand}" />
+
+        
+        <ListView ItemsSource="{Binding Photos}" IsRefreshing="{Binding IsBusy}" 
+                  RefreshCommand="{Binding SearchCommand}"
+                  HasUnevenRows="False"
+                  RowHeight="250"
+                  SelectionMode="None"
+                  ItemTapped="OnCellTapped"
+                  BackgroundColor="Transparent"
+                  SeparatorVisibility="Default"
+                  SeparatorColor="Black"
+                  >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid Padding="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="0.8*"/>
+                                <RowDefinition Height="0.2*"/>
+                            </Grid.RowDefinitions>
+                            
+                            <Image Grid.Row="0" Source="{Binding ImageUrl}" VerticalOptions="Center" />
+                            <Label Grid.Row="1" Text="{Binding Title}" FontSize="18" TextColor="Black" HorizontalTextAlignment="Center" />
+                        </Grid>
+                    </ViewCell>                    
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="PICT.View.PhotoDetailPage">
+
+    <ContentPage.Background>
+        <LinearGradientBrush>
+            <GradientStop Color="White" Offset="0.3"/>
+            <GradientStop Color="Pink" Offset="1"/>
+        </LinearGradientBrush>
+    </ContentPage.Background>
+    <Grid Padding="20">
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Image Grid.Row="0" x:Name="photoImage" Aspect="AspectFit"/>
+            <Label Grid.Row="1" x:Name="photoTitle" HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        </Grid>
+</ContentPage>

@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daru0\\source\\repos\\PICT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\view\\photodetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:view\\photodetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\view\\photodetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:view\\photodetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\entity\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:entity\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\entity\\photos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:entity\\photos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\entity\\photodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:entity\\photodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\entity\\flickrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:entity\\flickrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|c:\\users\\daru0\\source\\repos\\pict\\pict.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32836E3B-0DC8-47F1-A703-89C126FEC0FE}|PICT.csproj|solutionrelative:pict.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:36:47.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:39:00.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T15:37:03.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:37:00.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T15:36:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhotoDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\View\\PhotoDetailPage.xaml",
+              "RelativeDocumentMoniker": "View\\PhotoDetailPage.xaml",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\View\\PhotoDetailPage.xaml",
+              "RelativeToolTip": "View\\PhotoDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T19:31:03.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhotoDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\View\\PhotoDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\PhotoDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\View\\PhotoDetailPage.xaml.cs",
+              "RelativeToolTip": "View\\PhotoDetailPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T19:33:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:36:03.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T15:37:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:00:31.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Photos.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\Entity\\Photos.cs",
+              "RelativeDocumentMoniker": "Entity\\Photos.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\Entity\\Photos.cs",
+              "RelativeToolTip": "Entity\\Photos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:28:57.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhotoData.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\Entity\\PhotoData.cs",
+              "RelativeDocumentMoniker": "Entity\\PhotoData.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\Entity\\PhotoData.cs",
+              "RelativeToolTip": "Entity\\PhotoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:29:56.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\Entity\\Photo.cs",
+              "RelativeDocumentMoniker": "Entity\\Photo.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\Entity\\Photo.cs",
+              "RelativeToolTip": "Entity\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:27:33.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlickrResponse.cs",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\Entity\\FlickrResponse.cs",
+              "RelativeDocumentMoniker": "Entity\\FlickrResponse.cs",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\Entity\\FlickrResponse.cs",
+              "RelativeToolTip": "Entity\\FlickrResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T18:28:34.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PICT.csproj",
+              "DocumentMoniker": "C:\\Users\\daru0\\source\\repos\\PICT\\PICT.csproj",
+              "RelativeDocumentMoniker": "PICT.csproj",
+              "ToolTip": "C:\\Users\\daru0\\source\\repos\\PICT\\PICT.csproj",
+              "RelativeToolTip": "PICT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T15:37:35.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
